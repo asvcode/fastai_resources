@@ -1,5 +1,5 @@
 # fastai_v2_P1_resources
-Fastai version 2 part 1 resources
+Fastai version 2 part 1 (October 2017 class)
 
 # Course Links
 [Fastai version 2 repository](https://github.com/fastai/fastai)
@@ -15,6 +15,8 @@ Fastai version 2 part 1 resources
 [AWS setup - thanks to Reshamas](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/aws_ami_gpu_setup.md)
 
 [Kaggle setup - thanks again to Reshamas](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/download_data_kaggle_cli.md)
+
+[Uploading data to AWS](https://github.com/asvcode/fastai_v2_P1_resources/blob/master/Uploading%20data%20to%20AWS.md)
 
 
 
