@@ -4,7 +4,4 @@
 
 2) Download FileZilla from here: (https://filezilla-project.org/)
 
-
-3) Start an AWS instance
-
-4) 
+3) Start an AWS instance and copy the public DNS 
