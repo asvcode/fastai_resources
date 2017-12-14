@@ -14,4 +14,7 @@ Fastai version 2 part 1 resources
 # Resources
 [AWS setup - thanks to Reshamas](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/aws_ami_gpu_setup.md)
 
+[Kaggle setup - thanks again to Reshamas](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/download_data_kaggle_cli.md)
+
+
 
