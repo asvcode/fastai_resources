@@ -9,6 +9,10 @@ Lesson 1 Cats and Dogs notes: [Fastai Forum](http://forums.fast.ai/t/cats-and-do
 
 Lesson 6 Nietzsche notes: [Fastai Forum](http://forums.fast.ai/t/nietzsche-notes-lesson-6/8682) | [PDF Link](images/lesson6-rnn_notes.pdf "PDF Link")
 
+<p align="center">
+  <img src="images/lesson6-rnn_notes_Page01.jpg" />
+</p>
+
 Lesson 7 CIFAR-10 notes: [Fastai Forum](http://forums.fast.ai/t/cifar-10-notes-lesson-7/8888) | [PDF Link](images/lesson7-cifar10_notes.pdf "PDF Link")
 
 # Resources
