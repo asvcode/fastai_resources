@@ -12,9 +12,9 @@ Lesson 6 Nietzsche notes: [Fastai Forum](http://forums.fast.ai/t/nietzsche-notes
 Lesson 7 CIFAR-10 notes: [Fastai Forum](http://forums.fast.ai/t/cifar-10-notes-lesson-7/8888) | [PDF Link](images/lesson7-cifar10_notes.pdf "PDF Link")
 
 # Resources
-AWS setup - [thanks to Reshamas](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/aws_ami_gpu_setup.md)
+[AWS setup](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/aws_ami_gpu_setup.md) - thanks to Reshamas
 
-Kaggle setup - [thanks again to Reshamas](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/download_data_kaggle_cli.md)
+[Kaggle setup](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/download_data_kaggle_cli.md)- thanks to Reshamas
 
 [Uploading data to AWS](https://github.com/asvcode/fastai_v2_P1_resources/blob/master/Uploading%20data%20to%20AWS.md)
 
