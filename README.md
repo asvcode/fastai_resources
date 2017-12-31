@@ -5,7 +5,7 @@ Fastai version 2 part 1 (October 2017 class)
 [Fastai version 2 repository](https://github.com/fastai/fastai)
 
 # Lesson Notes
-[Lesson 1 cats and dogs notes](http://forums.fast.ai/t/cats-and-dogs-code-notes/7561)(files/lesson1_notes.pdf "PDF Link")
+[Lesson 1 cats and dogs notes](http://forums.fast.ai/t/cats-and-dogs-code-notes/7561)[|](files/lesson1_notes.pdf "PDF Link")
 
 [Lesson 6 Nietzsche notes](http://forums.fast.ai/t/nietzsche-notes-lesson-6/8682)
 
