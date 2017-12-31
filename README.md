@@ -16,7 +16,7 @@ Lesson 7 CIFAR-10 notes: [Fastai Forum](http://forums.fast.ai/t/cifar-10-notes-l
 
 [Kaggle setup](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/download_data_kaggle_cli.md)- thanks to Reshamas
 
-[Uploading data to AWS](https://github.com/asvcode/fastai_v2_P1_resources/blob/master/Uploading%20data%20to%20AWS.md)
+[Uploading data to AWS](https://github.com/asvcode/fastai_v2_P1_resources/blob/master/Uploading%20data%20to%20AWS.md) - quick guide on how to upload your data to AWS using FileZilla
 
 
 
