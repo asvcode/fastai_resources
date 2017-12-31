@@ -10,7 +10,7 @@ Lesson 1 Cats and Dogs notes: [Fastai Forum](http://forums.fast.ai/t/cats-and-do
 Lesson 6 Nietzsche notes: [Fastai Forum](http://forums.fast.ai/t/nietzsche-notes-lesson-6/8682) | [PDF Link](images/lesson6-rnn_notes.pdf "PDF Link")
 
 <p align="center"
-<img src="images/lesson6-rnn_notes_Page_01.jpg" width=120/><img src="images/lesson6-rnn_notes_Page_02.jpg" width=120 /><img src="images/lesson6-rnn_notes_Page_03.jpg" width=120 /><img src="images/lesson6-rnn_notes_Page_04.jpg" width=120 /><img src="images/lesson6-rnn_notes_Page_05.jpg" width=120 /><img src="images/lesson6-rnn_notes_Page_06.jpg" width=120 /><img src="images/lesson6-rnn_notes_Page_07.jpg" width=120 />
+<img src="images/lesson6-rnn_notes_Page_01.jpg" width=110/><img src="images/lesson6-rnn_notes_Page_02.jpg" width=110 /><img src="images/lesson6-rnn_notes_Page_03.jpg" width=110 /><img src="images/lesson6-rnn_notes_Page_04.jpg" width=110 /><img src="images/lesson6-rnn_notes_Page_05.jpg" width=110 /><img src="images/lesson6-rnn_notes_Page_06.jpg" width=110 /><img src="images/lesson6-rnn_notes_Page_07.jpg" width=110 />
 
 <img src="images/lesson6-rnn_notes_Page_08.jpg" width=120/><img src="images/lesson6-rnn_notes_Page_09.jpg" width=120 /><img src="images/lesson6-rnn_notes_Page_10.jpg" width=120 /><img src="images/lesson6-rnn_notes_Page_11.jpg" width=120 /><img src="images/lesson6-rnn_notes_Page_12.jpg" width=120 /><img src="images/lesson6-rnn_notes_Page_13.jpg" width=120 /><img src="images/lesson6-rnn_notes_Page_14.jpg" width=120 />
 </p>
