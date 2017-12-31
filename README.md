@@ -2,7 +2,7 @@
 Fastai version 2 part 1 (October 2017 class)
 
 # Course Links
-[Fastai version 2 repository](https://github.com/fastai/fastai)
+[Fastai repository](https://github.com/fastai/fastai) Fastai Version 2 Part 1 repository
 
 # Lesson Notes
 Lesson 1 Cats and Dogs notes:3  [Fastai Forum](http://forums.fast.ai/t/cats-and-dogs-code-notes/7561) | [PDF Link](images/lesson1_notes.pdf "PDF Link")
