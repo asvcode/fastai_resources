@@ -5,13 +5,11 @@ Fastai version 2 part 1 (October 2017 class)
 [Fastai version 2 repository](https://github.com/fastai/fastai)
 
 # Lesson Notes
-Lesson 1 cats and dogs notes: [Fastai Forum](http://forums.fast.ai/t/cats-and-dogs-code-notes/7561) | [PDF Link](images/lesson1_notes.pdf "PDF Link")
+Lesson 1 Cats and Dogs notes: [Fastai Forum](http://forums.fast.ai/t/cats-and-dogs-code-notes/7561) | [PDF Link](images/lesson1_notes.pdf "PDF Link")
 
-[Project Presentation](files/project-presentation.pdf "Project Presentation PDF")
+Lesson 6 Nietzsche notes: [Fastai Forum](http://forums.fast.ai/t/nietzsche-notes-lesson-6/8682) | [PDF Link]
 
-[Lesson 6 Nietzsche notes](http://forums.fast.ai/t/nietzsche-notes-lesson-6/8682)
-
-[Lesson 7 CIFAR-10 notes](http://forums.fast.ai/t/cifar-10-notes-lesson-7/8888)
+Lesson 7 CIFAR-10 notes: [Fastai Forum](http://forums.fast.ai/t/cifar-10-notes-lesson-7/8888) | [PDF Link]
 
 # Resources
 [AWS setup - thanks to Reshamas](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/aws_ami_gpu_setup.md)
