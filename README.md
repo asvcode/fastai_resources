@@ -5,7 +5,7 @@ Fastai version 2 part 1 (October 2017 class)
 [Fastai version 2 repository](https://github.com/fastai/fastai)
 
 # Lesson Notes
-# H6 Lesson 1 Cats and Dogs notes:3  [Fastai Forum](http://forums.fast.ai/t/cats-and-dogs-code-notes/7561) | [PDF Link](images/lesson1_notes.pdf "PDF Link")
+# H6 Lesson 1 Cats and Dogs notes:3#  [Fastai Forum](http://forums.fast.ai/t/cats-and-dogs-code-notes/7561) | [PDF Link](images/lesson1_notes.pdf "PDF Link")
 
 <p align="center">
 <imgsrc="images/lesson1_notes_Page_01.jpg" width=110/><img src="images/lesson1_notes_Page_02.jpg" width=110 /><img src="images/lesson1_notes_Page_03.jpg" width=110 /><img src="images/lesson1_notes_Page_04.jpg" width=110 /><img src="images/lesson1_notes_Page_05.jpg" width=110 /><img src="images/lesson1_notes_Page_06.jpg" width=110 /><img src="images/lesson1_notes_Page_07.jpg" width=110 /><img src="images/lesson1_notes_Page_08.jpg" width=110 />
