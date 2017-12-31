@@ -7,6 +7,8 @@ Fastai version 2 part 1 (October 2017 class)
 # Lesson Notes
 [Lesson 1 cats and dogs notes](http://forums.fast.ai/t/cats-and-dogs-code-notes/7561) [PDF Link] (images/lesson1_notes.pdf "PDF Link")
 
+[Project Presentation](files/project-presentation.pdf "Project Presentation PDF")
+
 [Lesson 6 Nietzsche notes](http://forums.fast.ai/t/nietzsche-notes-lesson-6/8682)
 
 [Lesson 7 CIFAR-10 notes](http://forums.fast.ai/t/cifar-10-notes-lesson-7/8888)
