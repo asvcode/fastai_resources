@@ -1,10 +1,10 @@
 # fastai_v2_P1_resources
 Fastai version 2 part 1 (October 2017 class)
 
-# Course Links
+### Course Links
 [Fastai repository](https://github.com/fastai/fastai) Fastai Version 2 Part 1 repository
 
-# Lesson Notes
+### Lesson Notes
 I have included a compilaton of my notes and understanding below:
 
 Lesson 1 Cats and Dogs notes:3  [Fastai Forum](http://forums.fast.ai/t/cats-and-dogs-code-notes/7561) | [PDF Link](images/lesson1_notes.pdf "PDF Link")
@@ -31,7 +31,7 @@ Lesson 7 CIFAR-10 notes: [Fastai Forum](http://forums.fast.ai/t/cifar-10-notes-l
 <img src="images/lesson7-cifar10_notes_Page_09.jpg" width=110/><img src="images/lesson7-cifar10_notes_Page_02.jpg" width=110 /><img src="images/lesson7-cifar10_notes_Page_11.jpg" width=110 /><img src="images/lesson7-cifar10_notes_Page_12.jpg" width=110 /><img src="images/lesson7-cifar10_notes_Page_13.jpg" width=110 /><img src="images/lesson7-cifar10_notes_Page_14.jpg" width=110 /><img src="images/lesson7-cifar10_notes_Page_15.jpg" width=110 />
 </p>
 
-# Resources
+### Resources
 [AWS setup](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/aws_ami_gpu_setup.md) - thanks to Reshamas
 
 [Kaggle setup](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/download_data_kaggle_cli.md)- thanks to Reshamas
